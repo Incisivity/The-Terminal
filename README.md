@@ -16,6 +16,6 @@ Well, you can Dm me (Incy#3764) on discord to gain access to the channel that ha
 Or you can find the secret code that allows you to become a tester instantly.
 
 
-#To Do
+# To Do
 * Add so the tester saves so you dont have to verify 100 times
 Suggest more.
